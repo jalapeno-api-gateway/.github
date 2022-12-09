@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="../img/logo.png">
+	<img src="https://github.com/jalapeno-api-gateway/.github/raw/main/img/logo.png">
 </p>
 <h1 align="center">Thanks for visiting the</br>Jalapeno API Gateway</h1>
 <p align="center">
