@@ -23,3 +23,9 @@ The Jalapeno API Gateway project consists of four repositories.
 | [jagw-helm](https://github.com/jalapeno-api-gateway/jagw-helm) | Helm deployment|
 | [jagw-go](https://github.com/jalapeno-api-gateway/jagw-go) | Go client library |
 | [jagw-python](https://github.com/jalapeno-api-gateway/jagw-python) | Python client library |
+
+In order to have a working gateway, you need also a working Jalapeno. The following repository can be used for that.
+| Repository | Description |
+| --- | --- |
+| [jalapeno](https://github.com/cisco-open/jalapeno) | Contains all microservices |
+| [jalapeno-helm](https://github.com/jalapeno-api-gateway/jalapeno-helm) | Helm deployment|
